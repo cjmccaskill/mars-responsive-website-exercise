@@ -1,1 +1,0 @@
-# mars-responsive-website-exercise

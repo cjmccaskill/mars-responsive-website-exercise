@@ -1,4 +1,4 @@
-# Adding Responsiveness To Mars
+# Building Out From Mobile First
 ## Instructions
 
 You have created a site using the `Mobile First` approach and now it's time to add the required css to implement the `Tablet` and `Desktop` versions.  You are not allowed to edit the HTML in any way and are only permitted to use CSS to make the needed changes. 

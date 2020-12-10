@@ -1,12 +1,12 @@
 # Building Out From Mobile First
 ## Instructions
 
-You have created a site using the `Mobile First` approach and now it's time to add the required css to implement the `Tablet` and `Desktop` versions.  You are not allowed to edit the HTML in any way and are only permitted to use CSS to make the needed changes. 
+The Mars Site has been created using the **Mobile First** approach and now it's time to add the required css to implement the **Tablet** and **Desktop** versions.  You are not allowed to edit the HTML in any way and are only permitted to use CSS to make the needed changes. 
 
 ### Setup
 1. Fork and Clone this repo
-2. Open `index.html` in the browser
-4. Add the required css to the media queries in `responsive.css`
+2. Open **index.html** in the browser
+3. Add the required css to the media queries in **responsive.css**
 
 #### responsive.css
 
@@ -24,6 +24,6 @@ This file contains the following media queries.  These will be the only 2 media 
 ### Review Existing Solution
 - An interactive [solution](https://0wqnv.csb.app/) has been provided which you can inspect using Chrome Dev Tools. 
 
-- Below are the layouts for `Mobile`, `Tablet` and `Desktop`
+- Below are the layouts for **Mobile**, **Tablet** and **Desktop**
 
 <img src="https://i.imgur.com/GM9oj6c.jpg" />

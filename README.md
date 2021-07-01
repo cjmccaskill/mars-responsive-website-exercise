@@ -5,12 +5,26 @@ The Mars Site has been created using the **Mobile First** approach and now it's 
 
 ### Setup
 1. Fork and Clone this repo
-2. Open **index.html** in the browser
+2. Open **index.html** in the browser or the **responsively** app
 3. Add the required css to the media queries in **responsive.css**
+
+### Mobile Design
+
+The mobile design has already been completed and should look like the following when viewed in Chrome Responsive DevTools at 425px. 
+
+<img src="https://i.imgur.com/f0wWj3v.png">
+
+### Table and Desktop
+
+You must now implement the following Tablet and Mobile designs.
+
+<img src="https://i.imgur.com/yREvajG.jpg">
+
+<img src="https://i.imgur.com/ip7RfoP.jpg">
 
 #### responsive.css
 
-This file contains the following media queries.  These will be the only 2 media queries needed and all your CSS must me placed within one of those 2 files. 
+This file contains the following media queries.  These will be the only 2 media queries needed and all your CSS must me placed within one of them. 
 
 ```css
 @media only screen and (min-width: 768px) {
@@ -21,9 +35,15 @@ This file contains the following media queries.  These will be the only 2 media 
 
 ```
 
-### Review Existing Solution
-- An interactive [solution](https://0wqnv.csb.app/) has been provided which you can inspect using Chrome Dev Tools. 
+### Mockups 
 
-- Below are the layouts for **Mobile**, **Tablet** and **Desktop**
+Here are the mockups you will need to implement for **Tablet** and **Desktop**.  
+
+<img src="https://i.imgur.com/yREvajG.jpg">
+
+<img src="https://i.imgur.com/ip7RfoP.jpg">
+<!-- - An interactive [solution](https://0wqnv.csb.app/) has been provided which you can inspect using Chrome Dev Tools.  -->
+
+
 
 <img src="https://i.imgur.com/GM9oj6c.jpg" />

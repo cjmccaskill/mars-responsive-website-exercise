@@ -1,5 +1,44 @@
 @media only screen and (min-width: 768px) {
-}
+  header .wrapper .article .description {
+    overflow: visible;
+    max-height: none;
+  }
 
+  header .wrapper .article h1 span {
+    display: none;
+  }
+
+  section.dashboard .slick-list .slick-track {
+    display: block;
+    padding: 20px;
+  }
+
+  section.dashboard .slick-list .slide {
+    opacity: 1;
+  }
+}
 @media only screen and (min-width: 1024px) {
+  header .header-nav-area #nav_container {
+    display: flex;
+  }
+
+  header form {
+    display: flex;
+  }
+
+  header .menu-icon {
+    display: none;
+  }
+
+  header .wrapper {
+    width: 475px;
+    text-align: left;
+    margin-left: 25px;
+  }
+
+  section.dashboard .slick-list .slick-track {
+  }
+  section.dashboard .slick-list .slick-track[index="2"] {
+    display: block;
+  }
 }
